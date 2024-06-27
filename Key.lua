@@ -99,11 +99,11 @@ SubmitButton.MouseButton1Click:Connect(function()
     if KeySystem == "ROADTO1KMEMBERS" then   
 screenGui:Destroy()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HutaoHubs/Hutaohubs2.0/main/Hutaohub.lua"))()'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/HutaoHubs/OPMM2Hutaohubs/main/PremiumMM2.lua'),true))()
   
   end
 end)
 
 GetKeyButton.MouseButton1Click:Connect(function()
- setclipboard("discord") 
+ setclipboard("https://discord.com/invite/PXCD5NCY9t") 
 end) 
