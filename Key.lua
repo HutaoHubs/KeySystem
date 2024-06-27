@@ -105,5 +105,5 @@ loadstring(game:HttpGet(('https://raw.githubusercontent.com/HutaoHubs/OPMM2Hutao
 end)
 
 GetKeyButton.MouseButton1Click:Connect(function()
- setclipboard("https://discord.com/invite/PXCD5NCY9t") 
+ setclipboard("discord.com/invite/PXCD5NCY9t") 
 end) 
