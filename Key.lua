@@ -99,7 +99,7 @@ SubmitButton.MouseButton1Click:Connect(function()
     if KeySystem == "ROADTO1KMEMBERS" then   
 screenGui:Destroy()
 
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/HutaoHubs/OPMM2Hutaohubs/main/PremiumMM2.lua'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/HutaoHubs/PremiumHub/main/PremiumHub.lua'),true))()
   
   end
 end)
