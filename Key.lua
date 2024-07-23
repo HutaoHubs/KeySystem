@@ -96,7 +96,7 @@ GetKeyButton.Parent = frame
 --------------------------------------------------------------------------
 SubmitButton.MouseButton1Click:Connect(function()
     local KeySystem = KeySystem.Text
-    if KeySystem == "ROADTO1KMEMBERS" then   
+    if KeySystem == "P" then   
 screenGui:Destroy()
 
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/HutaoHubs/PremiumHub/main/PremiumHub.lua'),true))()
